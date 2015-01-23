@@ -2,4 +2,9 @@ I uploaded all the problems I solved by 1/14/2015.
 
 
 
-I added about 15 more problems.  
+I added about 15 more problems. 
+
+====
+Jan 23, 2015, I added  Interleaving String, scramble string, largest rectangle, largest number, best time buy and sell stock(and 2, 3), longest parentheses, and minimum path sum.
+
+
