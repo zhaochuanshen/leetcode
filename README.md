@@ -7,4 +7,8 @@ I added about 15 more problems.
 ====
 Jan 23, 2015, I added  Interleaving String, scramble string, largest rectangle, largest number, best time buy and sell stock(and 2, 3), longest parentheses, and minimum path sum.
 
+====
+I added lots of problems in Feburary of 2015, and several more on March 11th.
+
+Here is the most updated.
 
